@@ -17,8 +17,7 @@ This analysis aims to uncover the different customers segments, purchase trends 
 Project Approch
 Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
 
-New Columns
-Added new columns
+Added new columns - 
 1.time_of_day - which give insights of sales and customer behaviour.
 Which contains Morning,Afternoon and Evening,  by using CASE STATEMENT.
 2.day_name - this contains extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri)
