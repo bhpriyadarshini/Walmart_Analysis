@@ -60,8 +60,4 @@ D.Customer
 9.Which day fo the week has the best avg ratings?
 10.Which day of the week has the best average ratings per branch?
 
-Conclusion
-1.
-
-
-
+Overall, the Walmart Sales Analysis project endeavors to empower stakeholders with data-driven insights to make informed decisions, capitalize on emerging opportunities, and maintain Walmart's position as a leader in the global retail landscape.
