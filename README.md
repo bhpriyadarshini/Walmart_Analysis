@@ -1,8 +1,7 @@
 Walmart Sales Data Analysis
 
 About - 
-This project aims to explore the Walmart sales data to performing branches and products, Sale trend of 
-different products, customer behaviour and to study how sales stragers can be improved and optimised.
+The Walmart Sales Analysis project aims to delve into the intricacies of one of the world's largest retail giants, Walmart. Through comprehensive data analysis and visualization techniques, this project endeavors to unearth valuable insights into consumer behavior, market trends, and operational efficiencies within Walmart's vast ecosystem.
 
 Analysis List -
 Product Analysis -
